@@ -1,0 +1,34 @@
+{
+  "schemaVersion": 1,
+  "id": "exstrangefood2",
+  "version": "${version}",
+  "name": "exstrangefood2",
+  "description": "ExStrangeFood2!更多奇怪的食物2！",
+  "authors": [
+    "TeamPotato"
+  ],
+  "icon": "assets/exstrangefood/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "team.teampotato.exstrangefood2.exstrangefood"
+    ]
+  },
+  "mixins": [
+    "exstrangefood2.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": ">=1.18.2",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  },
+  "contact": {
+    "homepage": "https://www.mcmod.cn/class/6072.html",
+    "issues": "https://www.mcmod.cn/class/6072.html"
+  }
+}
+
