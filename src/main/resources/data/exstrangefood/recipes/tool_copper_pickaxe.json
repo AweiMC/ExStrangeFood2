@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    " N ",
+    " N "
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:copper_ingot"
+    },
+        "N": {
+      "item": "minecraft:stick"
+      }
+  },
+  "result": {
+    "item": "exstrangefood:tool_copper_pickaxe",
+    "count": 1
+  }
+}

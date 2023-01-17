@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ggg",
+    "gDg",
+    "ggg"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:gold_block"
+    },
+        "D": {
+      "item": "minecraft:diamond_block"
+    }
+  },
+  "result": {
+    "item": "exstrangefood:food_dragon060810",
+    "count": 4
+  }
+}

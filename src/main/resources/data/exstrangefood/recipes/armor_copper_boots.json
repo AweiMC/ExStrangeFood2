@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "E E",
+    "E E",
+    "   "
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "exstrangefood:armor_copper_boots",
+    "count": 1
+  }
+}

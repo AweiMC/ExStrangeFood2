@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "iii",
+    "iji",
+    "iii"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:iron_ingot"
+    },
+        "j": {
+      "item": "minecraft:axolotl_bucket"
+    }
+  },
+  "result": {
+    "item": "exstrangefood:food_iron_bucket_of_axolotl",
+    "count": 4
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ggg",
+    "gvg",
+    "ggg"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+        "v": {
+      "item": "minecraft:bread"
+    }
+  },
+  "result": {
+    "item": "exstrangefood:food_goldbread",
+    "count": 4
+  }
+}
+

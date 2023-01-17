@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EE ",
+    "EN ",
+    " N "
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:amethyst_shard"
+    },
+        "N": {
+      "item": "minecraft:stick"
+      }
+  },
+  "result": {
+    "item": "exstrangefood:tool_amethystshard_axe",
+    "count": 1
+  }
+}

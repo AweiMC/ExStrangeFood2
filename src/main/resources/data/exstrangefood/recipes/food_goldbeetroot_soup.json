@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ggg",
+    "gBg",
+    "ggg"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+        "B": {
+      "item": "minecraft:beetroot_soup"
+    }
+  },
+  "result": {
+    "item": "exstrangefood:food_goldbeetroot_soup",
+    "count": 4
+  }
+}

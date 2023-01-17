@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " E ",
+    " E ",
+    " N "
+  ],
+  "key": {
+    "E": {
+      "item": "exstrangefood:ingot_exsfsyncretic"
+    },
+        "N": {
+      "item": "exstrangefood:stick_nether_stick"
+      }
+  },
+  "result": {
+    "item": "exstrangefood:tool_syncretic_sword",
+    "count": 1
+  }
+}

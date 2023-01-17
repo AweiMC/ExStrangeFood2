@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ggg",
+    "gng",
+    "ggg"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+        "n": {
+      "item": "minecraft:cooked_beef"
+    }
+  },
+  "result": {
+    "item": "exstrangefood:food_goldsteak",
+    "count": 4
+  }
+}

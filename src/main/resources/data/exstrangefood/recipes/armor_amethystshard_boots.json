@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "E E",
+    "E E",
+    "   "
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "item": "exstrangefood:armor_amethystshard_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "NNN",
+    "III",
+    "CCC"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:netherite_ingot"
+    },
+        "I": {
+      "item": "minecraft:iron_ingot"
+    },
+        "C": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "exstrangefood:coarse_netherite",
+    "count": 4
+  }
+}

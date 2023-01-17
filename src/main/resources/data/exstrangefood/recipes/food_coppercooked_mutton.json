@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "C#C",
+    "CCC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+        "#": {
+      "item": "minecraft:cooked_mutton"
+    }
+  },
+  "result": {
+    "item": "exstrangefood:food_coppercooked_mutton",
+    "count": 4
+  }
+}
