@@ -19,5 +19,5 @@ jobs:
       - name: Capture build artifacts
         uses: actions/upload-artifact@v3
         with:
-          name: Artifacts
+          name: Build Artifacts
           path: build/libs/
